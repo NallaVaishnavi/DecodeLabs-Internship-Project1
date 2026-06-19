@@ -1,5 +1,6 @@
 # DecodeLabs-Internship-Project1
-Python-based Rule-Based AI Chatbot demonstrating basic conversational AI using conditional logic and user interaction.
+This project showcases a simple Rule-Based AI Chatbot built with Python. The chatbot interacts with users through predefined responses and highlights core programming concepts such as control flow, user input handling, and rule-based decision-making.
+
 
 # Rule-Based AI Chatbot
 
